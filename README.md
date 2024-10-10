@@ -1,7 +1,8 @@
 # output
 ![image](https://github.com/user-attachments/assets/6010422e-8652-4cc6-b8c1-91a3179136f7)
 
-
+# Description
+The Item List Application is a dynamic React-based web application designed to manage an inventory of items by allowing users to add new items to a list. The application provides a user-friendly interface where users can input details like item name, description, and quantity. Once submitted, the items are displayed in a neatly organized list with real-time updates.
 
 # Getting Started with Create React App
 
